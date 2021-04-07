@@ -1,11 +1,11 @@
 [
     {
-        title: "Sofőr",
-        body: "Veszünk fel sofőröket. \n Elérhetőség: 07telefonszám",
+        "title": "Sofőr",
+        "body": "Veszünk fel sofőröket. \n Elérhetőség: 07telefonszám",
 
     },
     {
-        title: "Sofőr",
-        body:"apple",
+        "title": "Sofőr",
+        "body":"apple",
     }
 ]
